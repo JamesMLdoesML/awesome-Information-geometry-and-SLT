@@ -22,7 +22,7 @@ The core idea of information geometry is to study the parameter space of statist
 
 <!-- TOC -->
 
-## Blogs and Tutorials
+## Blogs, Tutorials and Monographs
 
 1. **Chapter 3 on information projections (2004)**, Imre Csiszar, Paul C. Shields [[pdf]](https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf)
 2. **What is information projection (2018)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/201803/rnoti-p321.pdf)
@@ -31,6 +31,7 @@ The core idea of information geometry is to study the parameter space of statist
 5. **The Many Faces of Information Geometry (2021)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
 6. **New Insights and Perspectives on the Natural Gradient Method (2020)**, James Martens [[pdf]](https://arxiv.org/abs/1412.1193)
 7. **Information Geometry for the Working Information Theorist (2023)**, Kumar Vijay Mishra, M. Ashok Kumar, Ting-Kam Leonard Wong [[pdf]](https://arxiv.org/pdf/2310.03884)
+8. **Information theory and statistics: a tutorial (2004)**, Imre Csiszár, Paul C. Shields [[pdf]](https://dl.acm.org/doi/abs/10.1561/0100000004)
 
 ## Textbooks
 
