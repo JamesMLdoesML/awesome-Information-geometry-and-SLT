@@ -52,6 +52,7 @@ The core idea of information geometry is to study the parameter space of statist
 10. **Riemannian SAM: Sharpness-Aware Minimization on Riemannian Manifolds (2023)**, Jihun Yun, Eunho Yang [[pdf]](https://openreview.net/forum?id=vtLNwa6uX0)
 11. **On Information Geometry and Iterative Optimization in Model Compression: Operator Factorization (2025)**, Zakhar Shumaylov, Vasileios Tsiaras, Yannis Stylianou [[pdf]](https://arxiv.org/abs/2507.09428)
 12. **Geometric Jensen-Shannon Divergence Between Gaussian Measures On Hilbert Space (2025)**, Minh Ha Quang, Frank Nielsen [[pdf]](https://arxiv.org/abs/2506.10494)
+13. **A Generalization of Amari's Bayesian Duality (2026)**, Mohammad Emtiyaz Khan, Thomas Möllenhoff [[pdf]](https://arxiv.org/abs/2609.09126)
 
 ## Singular Learning Theory
 
