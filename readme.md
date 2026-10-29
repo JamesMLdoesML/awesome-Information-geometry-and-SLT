@@ -136,6 +136,7 @@ The core idea of information geometry is to study the parameter space of statist
 17. **Continuous Kendall Shape Variational Autoencoders (2023)**, Sharvaree Vadgama, Jakub M. Tomczak, Erik Bekkers [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_8)
 18. **λ-Deformed Evidence Lower Bound (λ-ELBO) Using Rényi and Tsallis Divergence (2023)**, Kaiming Cheng, Jun Zhang [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_19)
 19. **Quasi-arithmetic Centers, Quasi-arithmetic Mixtures, and the Jensen-Shannon ∇-Divergences (2023)**, Frank Nielsen [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_15)
+20. **Information-Geometric Optimization with Natural Selection (2020)**, Jakub Otwinowski, Colin H. LaMont, Armita Nourmohammad [[pdf]](https://www.mdpi.com/1099-4300/22/9/967)
 
 ### Singular Learning Theory
 
