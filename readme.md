@@ -61,6 +61,7 @@ The core idea of information geometry is to study the parameter space of statist
 4. **Loss Landscape Degeneracy and Stagewise Development in Transformers (2024)**, Jesse Hoogland, George Wang, Matthew Farrugia-Roberts, Liam Carroll, Susan Wei, Daniel Murfet [[pdf]](https://arxiv.org/abs/2402.02364)
 5. **Dynamical versus Bayesian Phase Transitions in a Toy Model of Superposition (2023)**, Zhongtian Chen, Edmund Lau, Jake Mendel, Susan Wei, Daniel Murfet [[pdf]](https://arxiv.org/abs/2310.06301)
 6. **Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient (2024)**, George Wang, Jesse Hoogland, Stan van Wingerden, Zach Furman, Daniel Murfet [[pdf]](https://arxiv.org/abs/2410.02984)
+7. **Stagewise Reinforcement Learning and the Geometry of the Regret Landscape (2026)**, Chris Elliott, Einar Urdshals, David Quarel, Matthew Farrugia-Roberts, Daniel Murfet [[pdf]](https://arxiv.org/abs/2601.07524)
 
 ## YouTube
 
