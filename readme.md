@@ -35,8 +35,7 @@ The core idea of information geometry is to study the parameter space of statist
 9. **Information Geometry (2021)**, John Baez [[blog]](https://math.ucr.edu/home/baez/information/)
 10. **Natural Gradient Descent (2018)**, Agustinus Kristiadi [[blog]](https://agustinus.kristia.de/blog/natural-gradient/)
 11. **Fisher Information Matrix (2018)**, Agustinus Kristiadi [[blog]](https://agustinus.kristia.de/blog/fisher-information/)
-12. **The Basics of Information Geometry (2014)**, Ariel Caticha [[pdf]](https://arxiv.org/abs/1412.5633)
-13. **Information geometry in optimization, machine learning and statistical inference (2010)**, Shun-ichi Amari [[paper]](https://link.springer.com/article/10.1007/s11460-010-0101-3)
+12. **Information geometry in optimization, machine learning and statistical inference (2010)**, Shun-ichi Amari [[paper]](https://link.springer.com/article/10.1007/s11460-010-0101-3)
 
 ## Textbooks
 
@@ -49,6 +48,18 @@ The core idea of information geometry is to study the parameter space of statist
 7. **Geometric Modeling in Probability and Statistics (2014)**, Ovidiu Calin, Constantin Udrişte [[book]](https://link.springer.com/book/10.1007/978-3-319-07779-6)
 8. **Computational Information Geometry (2017)**, Frank Nielsen, Frank Critchley, Christopher T. J. Dodson (eds.) [[book]](https://link.springer.com/book/10.1007/978-3-319-47058-0)
 9. **Progress in Information Geometry (2021)**, Frank Nielsen (ed.) [[book]](https://link.springer.com/book/10.1007/978-3-030-65459-7)
+
+## Notes
+
+### Information Geometry notes
+
+1. **The Basics of Information Geometry (2014)**, Ariel Caticha [[pdf]](https://arxiv.org/abs/1412.5633)
+
+### Singular Learning Theory notes
+
+1. **Singular learning theory: from Bayesian statistics to Machine Learning (2024)**, Simon Pepin Lehalleur [[lecture notes]](https://simon-pepin.github.io/notes/SLT_lectures_all_Mar_24.pdf)
+2. **Singular Learning Theory seminar notes (2022–2023)**, Daniel Murfet [[lecture notes]](https://therisingsea.org/notes/metauni/)
+3. **Phase Transitions in Neural Networks (2021)**, Liam Carroll, MSc thesis supervised by Daniel Murfet [[pdf]](https://therisingsea.org/notes/MSc-Carroll.pdf)
 
 ## Classic papers
 
@@ -87,11 +98,8 @@ The core idea of information geometry is to study the parameter space of statist
 6. **Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient (2024)**, George Wang, Jesse Hoogland, Stan van Wingerden, Zach Furman, Daniel Murfet [[pdf]](https://arxiv.org/abs/2410.02984)
 7. **Stagewise Reinforcement Learning and the Geometry of the Regret Landscape (2026)**, Chris Elliott, Einar Urdshals, David Quarel, Matthew Farrugia-Roberts, Daniel Murfet [[pdf]](https://arxiv.org/abs/2601.07524)
 8. **Geometry of fibers of the multiplication map of deep linear neural networks (2024)**, Simon Pepin Lehalleur, Richárd Rimányi [[pdf]](https://arxiv.org/abs/2411.19920)
-9. **Singular learning theory: from Bayesian statistics to Machine Learning (2024)**, Simon Pepin Lehalleur [[lecture notes]](https://simon-pepin.github.io/notes/SLT_lectures_all_Mar_24.pdf)
-10. **Singular Learning Theory seminar notes (2022–2023)**, Daniel Murfet [[lecture notes]](https://therisingsea.org/notes/metauni/)
-11. **Phase Transitions in Neural Networks (2021)**, Liam Carroll, MSc thesis supervised by Daniel Murfet [[pdf]](https://therisingsea.org/notes/MSc-Carroll.pdf)
-12. **You Are What You Eat -- AI Alignment Requires Understanding How Data Shapes Structure and Generalisation (2025)**, Simon Pepin Lehalleur, Jesse Hoogland, Matthew Farrugia-Roberts, Susan Wei, Alexander Gietelink Oldenziel, George Wang, Liam Carroll, Daniel Murfet [[pdf]](https://arxiv.org/abs/2502.05475)
-13. **Deep Learning is Singular, and That's Good (2020)**, Daniel Murfet, Susan Wei, Mingming Gong, Hui Li, Jesse Gell-Redman, Thomas Quella [[pdf]](https://arxiv.org/abs/2010.11560)
+9. **You Are What You Eat -- AI Alignment Requires Understanding How Data Shapes Structure and Generalisation (2025)**, Simon Pepin Lehalleur, Jesse Hoogland, Matthew Farrugia-Roberts, Susan Wei, Alexander Gietelink Oldenziel, George Wang, Liam Carroll, Daniel Murfet [[pdf]](https://arxiv.org/abs/2502.05475)
+10. **Deep Learning is Singular, and That's Good (2020)**, Daniel Murfet, Susan Wei, Mingming Gong, Hui Li, Jesse Gell-Redman, Thomas Quella [[pdf]](https://arxiv.org/abs/2010.11560)
 
 ## YouTube
 
