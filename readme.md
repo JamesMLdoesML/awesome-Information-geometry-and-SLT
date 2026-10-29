@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-This is a list of surveys and textbooks on information geometry to help someone get started in the field. 
+A curated list of tutorials, textbooks, papers, and talks on information geometry, from foundations to applications in machine learning. 
    
 <!-- image -->
 
@@ -27,9 +27,9 @@ The core idea of information geometry is to study the parameter space of statist
 1. **Chapter 3 on information projections (2004)**, Imre Csiszar, Paul C. Shields [[pdf]](https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf)
 2. **What is information projection (2018)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/201803/rnoti-p321.pdf)
 3. **An elementary introduction to information geometry (2019)**, Frank Nielsen [[pdf]](https://arxiv.org/pdf/1808.08271.pdf)
-4. **Information Geometry by Amari (2021)**, Shun-ichi Amari [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464)
+4. **Information Geometry by Amari (2021)**, Shun-ichi Amari [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464)
 5. **The Many Faces of Information Geometry (2021)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
-6. **New Insights and Perspectives on the Natural Gradient Method (2020)**, James Martens [[pdf]](https://arxiv.org/abs/1412.1193)
+6. **New Insights and Perspectives on the Natural Gradient Method (2014)**, James Martens [[pdf]](https://arxiv.org/abs/1412.1193)
 7. **Information Geometry for the Working Information Theorist (2023)**, Kumar Vijay Mishra, M. Ashok Kumar, Ting-Kam Leonard Wong [[pdf]](https://arxiv.org/pdf/2310.03884)
 8. **Information theory and statistics: a tutorial (2004)**, Imre Csiszár, Paul C. Shields [[pdf]](https://dl.acm.org/doi/abs/10.1561/0100000004)
 
@@ -38,7 +38,7 @@ The core idea of information geometry is to study the parameter space of statist
 1. **Matrix Information Geometry (2013)**, Frank Nielsen, Rajendra Bhatia [[Amazon Link]](https://www.amazon.com/Matrix-Information-Geometry-Frank-Nielsen/dp/3642302319#:~:text=About%20the%20Author,%22Positive%20Definite%20Matrices%22..)
 2. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
 
-## Recent papers that use information geometery in machine learning
+## Recent papers that use information geometry in machine learning
 
 1. **A Distributional Approach to Controlled Text Generation (2020)**, Muhammad Khalifa, Hady Elsahar, Marc Dymetman [[pdf]](https://arxiv.org/abs/2012.11635)
 2. **The Information Geometry of Unsupervised Reinforcement Learning (2021)** Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine [[pdf]](https://arxiv.org/abs/2110.02719)
