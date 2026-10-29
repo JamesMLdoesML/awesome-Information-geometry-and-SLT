@@ -43,6 +43,9 @@ The core idea of information geometry is to study the parameter space of statist
 2. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
 3. **Methods of Information Geometry (2000)**, Shun-ichi Amari, Hiroshi Nagaoka [[book]](https://bookstore.ams.org/mmono-191)
 4. **Information Geometry (2017)**, Nihat Ay, Jürgen Jost, Hông Vân Lê, Lorenz Schwachhöfer [[book]](https://link.springer.com/book/10.1007/978-3-319-56478-4)
+5. **Differential Geometry and Statistics (1993)**, Michael K. Murray, John W. Rice [[book]](https://doi.org/10.1007/978-1-4899-3306-5)
+6. **Geometrical Foundations of Asymptotic Inference (1997)**, Robert E. Kass, Paul W. Vos [[book]](https://doi.org/10.1002/9781118165980)
+7. **Geometric Modeling in Probability and Statistics (2014)**, Ovidiu Calin, Constantin Udrişte [[book]](https://link.springer.com/book/10.1007/978-3-319-07779-6)
 
 ## Classic papers
 
@@ -65,6 +68,8 @@ The core idea of information geometry is to study the parameter space of statist
 11. **On Information Geometry and Iterative Optimization in Model Compression: Operator Factorization (2025)**, Zakhar Shumaylov, Vasileios Tsiaras, Yannis Stylianou [[pdf]](https://arxiv.org/abs/2507.09428)
 12. **Geometric Jensen-Shannon Divergence Between Gaussian Measures On Hilbert Space (2025)**, Minh Ha Quang, Frank Nielsen [[pdf]](https://arxiv.org/abs/2506.10494)
 13. **A Generalization of Amari's Bayesian Duality (2026)**, Mohammad Emtiyaz Khan, Thomas Möllenhoff [[pdf]](https://arxiv.org/abs/2609.09126)
+14. **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles (2011)**, Yann Ollivier, Ludovic Arnold, Anne Auger, Nikolaus Hansen [[pdf]](https://arxiv.org/abs/1106.3708)
+15. **The Information Geometry of Mirror Descent (2013)**, Garvesh Raskutti, Sayan Mukherjee [[pdf]](https://arxiv.org/abs/1310.7780)
 
 ## Singular Learning Theory
 
@@ -80,6 +85,7 @@ The core idea of information geometry is to study the parameter space of statist
 10. **Singular Learning Theory seminar notes (2022–2023)**, Daniel Murfet [[lecture notes]](https://therisingsea.org/notes/metauni/)
 11. **Phase Transitions in Neural Networks (2021)**, Liam Carroll, MSc thesis supervised by Daniel Murfet [[pdf]](https://therisingsea.org/notes/MSc-Carroll.pdf)
 12. **You Are What You Eat -- AI Alignment Requires Understanding How Data Shapes Structure and Generalisation (2025)**, Simon Pepin Lehalleur, Jesse Hoogland, Matthew Farrugia-Roberts, Susan Wei, Alexander Gietelink Oldenziel, George Wang, Liam Carroll, Daniel Murfet [[pdf]](https://arxiv.org/abs/2502.05475)
+13. **Deep Learning is Singular, and That's Good (2020)**, Daniel Murfet, Susan Wei, Mingming Gong, Hui Li, Jesse Gell-Redman, Thomas Quella [[pdf]](https://arxiv.org/abs/2010.11560)
 
 ## YouTube
 
