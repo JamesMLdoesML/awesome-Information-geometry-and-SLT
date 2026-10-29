@@ -57,6 +57,10 @@ The core idea of information geometry is to study the parameter space of statist
 
 1. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
 2. **Algebraic Information Geometry for Learning Machines with Singularities (2000)**, Sumio Watanabe [[pdf]](https://papers.nips.cc/paper/2000/hash/f442d33fa06832082290ad8544a8da27-Abstract.html)
+3. **The Local Learning Coefficient: A Singularity-Aware Complexity Measure (2023)**, Edmund Lau, Zach Furman, George Wang, Daniel Murfet, Susan Wei [[pdf]](https://arxiv.org/abs/2308.12108)
+4. **Loss Landscape Degeneracy and Stagewise Development in Transformers (2024)**, Jesse Hoogland, George Wang, Matthew Farrugia-Roberts, Liam Carroll, Susan Wei, Daniel Murfet [[pdf]](https://arxiv.org/abs/2402.02364)
+5. **Dynamical versus Bayesian Phase Transitions in a Toy Model of Superposition (2023)**, Zhongtian Chen, Edmund Lau, Jake Mendel, Susan Wei, Daniel Murfet [[pdf]](https://arxiv.org/abs/2310.06301)
+6. **Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient (2024)**, George Wang, Jesse Hoogland, Stan van Wingerden, Zach Furman, Daniel Murfet [[pdf]](https://arxiv.org/abs/2410.02984)
 
 ## YouTube
 
