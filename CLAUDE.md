@@ -1,34 +1,38 @@
 # Information Geometry Awesome List — Claude Instructions
 
-This repo is a curated list of resources on information geometry. The main content lives in `readme.md`.
+This repo is a curated list of resources on information geometry and singular learning theory. The main content lives in `readme.md`.
 
 ## Format
 
-The list is organized into three sections:
+The list (max 3 heading levels below the title) is organized as:
 
-### Blogs and Tutorials
-Numbered list. Each entry:
 ```
-N. **Title (Year)**, Author(s) [[pdf]](URL)
+## Part 1 — Learning the core ideas
+### Information Geometry
+#### Textbooks / Notes / Tutorials and surveys / Blogs / Classic papers / Intro videos
+### Singular Learning Theory
+#### Textbooks / Notes and theses / Tutorials and blogs / Foundational papers / Intro videos
+## Part 2 — Where the field is
+### Information Geometry
+#### Recent ML research
+### Singular Learning Theory
+#### Theory / Developmental interpretability and LLMs
+## Software
+## See also
 ```
 
-### Textbooks
-Numbered list. Each entry:
+Every section is a numbered list. Each entry:
 ```
-N. **Title (Year)**, Author(s) [[Amazon Link]](URL)
+N. **Title (Year)**, Author(s) [[label]](URL)
 ```
-or `[[pdf]](URL)` if freely available.
-
-### Recent papers that use information geometry in machine learning
-Numbered list. Each entry:
-```
-N. **Title (Year)**, Author(s) [[pdf]](URL)
-```
+Link labels: `[[pdf]]` (free paper/arXiv), `[[paper]]` (publisher page, possibly paywalled),
+`[[book]]` (publisher/bookstore page), `[[Amazon Link]]`, `[[lecture notes]]`, `[[blog]]`,
+`[[video]]`, `[[code]]`, `[[list]]`. Label honestly: only use `[[pdf]]` if the link is freely readable.
 
 ## How to update the list
 
 When asked to add a resource:
-1. Identify which section it belongs to (blog/tutorial, textbook, or ML paper).
+1. Identify which part (learning vs. research), field (IG vs. SLT) and topic it belongs to.
 2. Append it at the end of that section with the next sequential number.
 3. Use the format above — bold title with year in parens, then authors, then link.
 4. Prefer direct PDF links (arXiv, publisher, author pages) over paywalled ones. For books without free PDFs, use Amazon or publisher links.
