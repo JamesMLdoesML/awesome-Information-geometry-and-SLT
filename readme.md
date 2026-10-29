@@ -41,7 +41,7 @@ The core idea of information geometry is to study the parameter space of statist
 ## Classic papers
 
 1. **Information geometry of the EM and em algorithms for neural networks (1995)**, Shun-ichi Amari [[paper]](https://doi.org/10.1016/0893-6080(95)00003-8)
-2. **Information geometry of neural networks — new Bayesian duality theory — (1996)**, Shun-ichi Amari, ICONIP 1996
+2. **Information geometry of neural networks — new Bayesian duality theory — (1996)**, Shun-ichi Amari [[paper]](https://www.researchgate.net/publication/2451881_Information_Geometry_of_Neural_Networks_-_New_Bayesian_Duality_Theory)
 3. **Natural Gradient Works Efficiently in Learning (1998)**, Shun-ichi Amari [[paper]](https://doi.org/10.1162/089976698300017746)
 
 ## Recent papers that use information geometry in machine learning
