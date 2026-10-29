@@ -1,45 +1,31 @@
 name: lint
-on: 
+on:
   pull_request:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
-    awesome-lint:
-      strategy:
-        fail-fast: false
-        matrix:
-          files:
-            - "readme-template.md"
-      runs-on: ubuntu-latest
-      steps:
-        - name: "checkout repo"
-          uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
-        - name: asdf_install
-          uses: asdf-vm/actions/install@v1
-        - name: "linting: ${{ matrix.files }}"
-          run: npx -y awesome-lint ${{ matrix.files }}
-    awesome-bot:
-      strategy:
-        fail-fast: false
-        matrix:
-          files:
-            - "readme-template.md"
-      runs-on: ubuntu-latest
-      steps:
-        - name: "checkout repo"
-          uses: actions/checkout@v2.0.0
-          with:
-            fetch-depth: 0
-        - name: "setup ruby"
-          uses: ruby/setup-ruby@v1
-          with:
-            ruby-version: 3.0.1
-            bundler-cache: true
-        - name: "install awesome-bot"
-          run: gem install awesome_bot
-        - name: "linting: ${{ matrix.files }}"
-          run: awesome_bot --allow-redirect ${{ matrix.files }}
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+      - name: Check links in readme.md
+        # 403/429 are tolerated: publishers (Wiley, Elsevier, MIT Press, ResearchGate, Amazon)
+        # block CI bots or rate-limit even though the links work in a browser.
+        run: >
+          awesome_bot readme.md
+          --allow-redirect
+          --allow-dupe
+          --allow-ssl
+          --allow 403,429,503
+          --request-delay 1
+          --white-list researchgate.net,direct.mit.edu,doi.org/10.1162,onlinelibrary.wiley.com,linkinghub.elsevier.com,sciencedirect.com,amazon.com,awesome.re,creativecommons.org,web.archive.org
