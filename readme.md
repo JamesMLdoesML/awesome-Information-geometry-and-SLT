@@ -66,11 +66,13 @@ The core idea of information geometry is to study the parameter space of statist
 9. **Singular learning theory: from Bayesian statistics to Machine Learning (2024)**, Simon Pepin Lehalleur [[lecture notes]](https://simon-pepin.github.io/notes/SLT_lectures_all_Mar_24.pdf)
 10. **Singular Learning Theory seminar notes (2022–2023)**, Daniel Murfet [[lecture notes]](https://therisingsea.org/notes/metauni/)
 11. **Phase Transitions in Neural Networks (2021)**, Liam Carroll, MSc thesis supervised by Daniel Murfet [[pdf]](https://therisingsea.org/notes/MSc-Carroll.pdf)
+12. **You Are What You Eat -- AI Alignment Requires Understanding How Data Shapes Structure and Generalisation (2025)**, Simon Pepin Lehalleur, Jesse Hoogland, Matthew Farrugia-Roberts, Susan Wei, Alexander Gietelink Oldenziel, George Wang, Liam Carroll, Daniel Murfet [[pdf]](https://arxiv.org/abs/2502.05475)
 
 ## YouTube
 
 1. **Computational Information Geometry (2015)**, Frank Nielsen (MLSS Sydney) [[video]](https://www.youtube.com/watch?v=X3cBhBA1nNw)
 2. **Introduction to Information Geometry**, Frank Nielsen [[video]](https://www.youtube.com/watch?v=w6r_jsEBlgU)
+3. **Singular Learning Theory seminar (2022–2023)**, metauni (Daniel Murfet et al.) [[video]](https://metauni.org/slt/)
 
 ## Other awesome list on information geometry
 1. https://github.com/nocotan/awesome-information-geometry?tab=readme-ov-file#survey
