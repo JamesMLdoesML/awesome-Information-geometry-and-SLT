@@ -3,11 +3,11 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Information Geometry Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Information Geometry & Singular Learning Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
-A curated list of tutorials, textbooks, papers, and talks on information geometry, from foundations to applications in machine learning. 
+A curated list of tutorials, textbooks, papers, and talks on information geometry and singular learning theory, from foundations to applications in machine learning. 
    
 <!-- image -->
 
@@ -36,6 +36,7 @@ The core idea of information geometry is to study the parameter space of statist
 10. **Natural Gradient Descent (2018)**, Agustinus Kristiadi [[blog]](https://agustinus.kristia.de/blog/natural-gradient/)
 11. **Fisher Information Matrix (2018)**, Agustinus Kristiadi [[blog]](https://agustinus.kristia.de/blog/fisher-information/)
 12. **The Basics of Information Geometry (2014)**, Ariel Caticha [[pdf]](https://arxiv.org/abs/1412.5633)
+13. **Information geometry in optimization, machine learning and statistical inference (2010)**, Shun-ichi Amari [[paper]](https://link.springer.com/article/10.1007/s11460-010-0101-3)
 
 ## Textbooks
 
@@ -46,12 +47,16 @@ The core idea of information geometry is to study the parameter space of statist
 5. **Differential Geometry and Statistics (1993)**, Michael K. Murray, John W. Rice [[book]](https://doi.org/10.1007/978-1-4899-3306-5)
 6. **Geometrical Foundations of Asymptotic Inference (1997)**, Robert E. Kass, Paul W. Vos [[book]](https://doi.org/10.1002/9781118165980)
 7. **Geometric Modeling in Probability and Statistics (2014)**, Ovidiu Calin, Constantin Udrişte [[book]](https://link.springer.com/book/10.1007/978-3-319-07779-6)
+8. **Computational Information Geometry (2017)**, Frank Nielsen, Frank Critchley, Christopher T. J. Dodson (eds.) [[book]](https://link.springer.com/book/10.1007/978-3-319-47058-0)
+9. **Progress in Information Geometry (2021)**, Frank Nielsen (ed.) [[book]](https://link.springer.com/book/10.1007/978-3-030-65459-7)
 
 ## Classic papers
 
 1. **Information geometry of the EM and em algorithms for neural networks (1995)**, Shun-ichi Amari [[paper]](https://doi.org/10.1016/0893-6080%2895%2900003-8)
 2. **Information geometry of neural networks — new Bayesian duality theory — (1996)**, Shun-ichi Amari [[paper]](https://www.researchgate.net/publication/2451881_Information_Geometry_of_Neural_Networks_-_New_Bayesian_Duality_Theory)
 3. **Natural Gradient Works Efficiently in Learning (1998)**, Shun-ichi Amari [[paper]](https://doi.org/10.1162/089976698300017746)
+4. **Information geometry of Boltzmann machines (1992)**, Shun-ichi Amari, K. Kurata, Hiroshi Nagaoka [[paper]](https://doi.org/10.1109/72.125867)
+5. **Geometrical Singularities in the Neuromanifold of Multilayer Perceptrons (2001)**, Shun-ichi Amari, Hyeyoung Park, Tomoko Ozeki [[pdf]](https://papers.nips.cc/paper/2001/hash/65d2ea03425887a717c435081cfc5dbb-Abstract.html)
 
 ## Recent papers that use information geometry in machine learning
 
@@ -70,6 +75,7 @@ The core idea of information geometry is to study the parameter space of statist
 13. **A Generalization of Amari's Bayesian Duality (2026)**, Mohammad Emtiyaz Khan, Thomas Möllenhoff [[pdf]](https://arxiv.org/abs/2609.09126)
 14. **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles (2011)**, Yann Ollivier, Ludovic Arnold, Anne Auger, Nikolaus Hansen [[pdf]](https://arxiv.org/abs/1106.3708)
 15. **The Information Geometry of Mirror Descent (2013)**, Garvesh Raskutti, Sayan Mukherjee [[pdf]](https://arxiv.org/abs/1310.7780)
+16. **f-GANs in an Information Geometric Nutshell (2017)**, Richard Nock, Zac Cranko, Aditya K. Menon, Lizhen Qu, Robert C. Williamson [[pdf]](https://papers.nips.cc/paper/2017/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)
 
 ## Singular Learning Theory
 
@@ -92,6 +98,29 @@ The core idea of information geometry is to study the parameter space of statist
 1. **Computational Information Geometry (2015)**, Frank Nielsen (MLSS Sydney) [[video]](https://www.youtube.com/watch?v=X3cBhBA1nNw)
 2. **Introduction to Information Geometry**, Frank Nielsen [[video]](https://www.youtube.com/watch?v=w6r_jsEBlgU)
 3. **Singular Learning Theory seminar (2022–2023)**, metauni (Daniel Murfet et al.) [[video]](https://metauni.org/slt/)
+4. **Information Geometry and Its Applications: Survey (1)**, Shun-ichi Amari [[video]](https://www.youtube.com/watch?v=2Uy6xCpvnj0)
 
-## Other awesome list on information geometry
-1. https://github.com/nocotan/awesome-information-geometry?tab=readme-ov-file#survey
+## GSI (Geometric Science of Information)
+
+The GSI conference series (Springer LNCS, organised by Frank Nielsen and Frédéric Barbaresco) is the main venue for information geometry research.
+
+1. **GSI conference proceedings (all years)**, Springer [[proceedings]](https://link.springer.com/conference/gsi)
+2. **Geometric Science of Information: GSI 2019 (2019)**, Frank Nielsen, Frédéric Barbaresco (eds.) [[book]](https://link.springer.com/book/10.1007/978-3-030-26980-7)
+3. **Geometric Science of Information: GSI 2021 (2021)**, Frank Nielsen, Frédéric Barbaresco (eds.) [[book]](https://link.springer.com/book/10.1007/978-3-030-80209-7)
+4. **Geometric Science of Information: GSI 2023 (2023)**, Frank Nielsen, Frédéric Barbaresco (eds.) [[book]](https://link.springer.com/book/10.1007/978-3-031-38271-0)
+5. **Parametrisation Independence of the Natural Gradient in Overparametrised Systems (2021)**, Jesse van Oostrum, Nihat Ay [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_78)
+6. **Wasserstein Proximal of GANs (2021)**, Alex Tong Lin, Wuchen Li, Stanley Osher, Guido Montúfar [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_57)
+7. **Continuous Kendall Shape Variational Autoencoders (2023)**, Sharvaree Vadgama, Jakub M. Tomczak, Erik Bekkers [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_8)
+8. **λ-Deformed Evidence Lower Bound (λ-ELBO) Using Rényi and Tsallis Divergence (2023)**, Kaiming Cheng, Jun Zhang [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_19)
+9. **Quasi-arithmetic Centers, Quasi-arithmetic Mixtures, and the Jensen-Shannon ∇-Divergences (2023)**, Frank Nielsen [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_15)
+10. **Information Geometry (journal)**, Springer [[journal]](https://www.springer.com/journal/41884)
+
+## Software
+
+1. **NNGeometry**, Thomas George — Fisher matrices (KFAC, EKFAC, diagonal) and NTKs in PyTorch [[code]](https://github.com/tfjgeorge/nngeometry)
+2. **natural-gradients**, Agustinus Kristiadi — algorithms for approximating the Fisher information matrix for natural gradient [[code]](https://github.com/wiseodd/natural-gradients)
+3. **InformationGeometry.jl**, Rafael Arutjunjan — computational information geometry in Julia [[code]](https://github.com/RafaelArutjunjan/InformationGeometry.jl)
+
+## See also
+
+1. **awesome-information-geometry**, nocotan — a broader list several entries above were drawn from [[list]](https://github.com/nocotan/awesome-information-geometry)
