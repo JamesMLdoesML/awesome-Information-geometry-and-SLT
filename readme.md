@@ -32,11 +32,17 @@ The core idea of information geometry is to study the parameter space of statist
 6. **New Insights and Perspectives on the Natural Gradient Method (2014)**, James Martens [[pdf]](https://arxiv.org/abs/1412.1193)
 7. **Information Geometry for the Working Information Theorist (2023)**, Kumar Vijay Mishra, M. Ashok Kumar, Ting-Kam Leonard Wong [[pdf]](https://arxiv.org/pdf/2310.03884)
 8. **Information theory and statistics: a tutorial (2004)**, Imre Csiszár, Paul C. Shields [[pdf]](https://dl.acm.org/doi/abs/10.1561/0100000004)
+9. **Information Geometry (2021)**, John Baez [[blog]](https://math.ucr.edu/home/baez/information/)
+10. **Natural Gradient Descent (2018)**, Agustinus Kristiadi [[blog]](https://agustinus.kristia.de/blog/natural-gradient/)
+11. **Fisher Information Matrix (2018)**, Agustinus Kristiadi [[blog]](https://agustinus.kristia.de/blog/fisher-information/)
+12. **The Basics of Information Geometry (2014)**, Ariel Caticha [[pdf]](https://arxiv.org/abs/1412.5633)
 
 ## Textbooks
 
 1. **Matrix Information Geometry (2013)**, Frank Nielsen, Rajendra Bhatia [[Amazon Link]](https://www.amazon.com/Matrix-Information-Geometry-Frank-Nielsen/dp/3642302319#:~:text=About%20the%20Author,%22Positive%20Definite%20Matrices%22..)
 2. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
+3. **Methods of Information Geometry (2000)**, Shun-ichi Amari, Hiroshi Nagaoka [[book]](https://bookstore.ams.org/mmono-191)
+4. **Information Geometry (2017)**, Nihat Ay, Jürgen Jost, Hông Vân Lê, Lorenz Schwachhöfer [[book]](https://link.springer.com/book/10.1007/978-3-319-56478-4)
 
 ## Classic papers
 

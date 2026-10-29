@@ -28,4 +28,4 @@ jobs:
           --allow-ssl
           --allow 403,429,503
           --request-delay 1
-          --white-list researchgate.net,direct.mit.edu,doi.org/10.1162,onlinelibrary.wiley.com,linkinghub.elsevier.com,sciencedirect.com,amazon.com,awesome.re,creativecommons.org,web.archive.org
+          --white-list researchgate.net,direct.mit.edu,doi.org/10.1162,onlinelibrary.wiley.com,linkinghub.elsevier.com,link.springer.com,sciencedirect.com,amazon.com,awesome.re,creativecommons.org,web.archive.org
