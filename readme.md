@@ -38,6 +38,12 @@ The core idea of information geometry is to study the parameter space of statist
 1. **Matrix Information Geometry (2013)**, Frank Nielsen, Rajendra Bhatia [[Amazon Link]](https://www.amazon.com/Matrix-Information-Geometry-Frank-Nielsen/dp/3642302319#:~:text=About%20the%20Author,%22Positive%20Definite%20Matrices%22..)
 2. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
 
+## Classic papers
+
+1. **Information geometry of the EM and em algorithms for neural networks (1995)**, Shun-ichi Amari [[paper]](https://doi.org/10.1016/0893-6080(95)00003-8)
+2. **Information geometry of neural networks — new Bayesian duality theory — (1996)**, Shun-ichi Amari, ICONIP 1996
+3. **Natural Gradient Works Efficiently in Learning (1998)**, Shun-ichi Amari [[paper]](https://doi.org/10.1162/089976698300017746)
+
 ## Recent papers that use information geometry in machine learning
 
 1. **A Distributional Approach to Controlled Text Generation (2020)**, Muhammad Khalifa, Hady Elsahar, Marc Dymetman [[pdf]](https://arxiv.org/abs/2012.11635)
