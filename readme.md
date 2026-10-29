@@ -62,6 +62,10 @@ The core idea of information geometry is to study the parameter space of statist
 5. **Dynamical versus Bayesian Phase Transitions in a Toy Model of Superposition (2023)**, Zhongtian Chen, Edmund Lau, Jake Mendel, Susan Wei, Daniel Murfet [[pdf]](https://arxiv.org/abs/2310.06301)
 6. **Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient (2024)**, George Wang, Jesse Hoogland, Stan van Wingerden, Zach Furman, Daniel Murfet [[pdf]](https://arxiv.org/abs/2410.02984)
 7. **Stagewise Reinforcement Learning and the Geometry of the Regret Landscape (2026)**, Chris Elliott, Einar Urdshals, David Quarel, Matthew Farrugia-Roberts, Daniel Murfet [[pdf]](https://arxiv.org/abs/2601.07524)
+8. **Geometry of fibers of the multiplication map of deep linear neural networks (2024)**, Simon Pepin Lehalleur, Richárd Rimányi [[pdf]](https://arxiv.org/abs/2411.19920)
+9. **Singular learning theory: from Bayesian statistics to Machine Learning (2024)**, Simon Pepin Lehalleur [[lecture notes]](https://simon-pepin.github.io/notes/SLT_lectures_all_Mar_24.pdf)
+10. **Singular Learning Theory seminar notes (2022–2023)**, Daniel Murfet [[lecture notes]](https://therisingsea.org/notes/metauni/)
+11. **Phase Transitions in Neural Networks (2021)**, Liam Carroll, MSc thesis supervised by Daniel Murfet [[pdf]](https://therisingsea.org/notes/MSc-Carroll.pdf)
 
 ## YouTube
 
